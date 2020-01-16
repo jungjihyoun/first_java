@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AverageFinder/Avarage.iml" filepath="$PROJECT_DIR$/AverageFinder/Avarage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blackjac/Blackjac.iml" filepath="$PROJECT_DIR$/Blackjac/Blackjac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Discount/Discount.iml" filepath="$PROJECT_DIR$/Discount/Discount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dna/Dna.iml" filepath="$PROJECT_DIR$/Dna/Dna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatestDifferenceFinder/GreatestDifferenceFinder.iml" filepath="$PROJECT_DIR$/GreatestDifferenceFinder/GreatestDifferenceFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICE/ICE.iml" filepath="$PROJECT_DIR$/ICE/ICE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pokemon/Pokemon.iml" filepath="$PROJECT_DIR$/Pokemon/Pokemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShapePrinter/ShapePrinter.iml" filepath="$PROJECT_DIR$/ShapePrinter/ShapePrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitConverter/UnitConverter.iml" filepath="$PROJECT_DIR$/UnitConverter/UnitConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wizard/Wizard.iml" filepath="$PROJECT_DIR$/Wizard/Wizard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordDictionary/WordDictionary.iml" filepath="$PROJECT_DIR$/WordDictionary/WordDictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kimsin/kimsin.iml" filepath="$PROJECT_DIR$/kimsin/kimsin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
