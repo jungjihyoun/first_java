@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce741f48-949e-4d2d-bea4-4615003fc3f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project12/project12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project12/src/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project12/src/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project12/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AverageFinder/src" beforeDir="false" afterPath="$PROJECT_DIR$/AverageFinder/src" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AverageFinder/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AverageFinder/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project12/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/project12/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +21,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project12/src/Seat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="380">
               <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
                 <element signature="e#74#75#0" expanded="true" />
@@ -46,10 +40,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project12/src/main.java">
+        <entry file="file://$PROJECT_DIR$/project12/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            <state relative-caret-position="247">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -130,6 +124,7 @@
         <option value="$PROJECT_DIR$/project12/src/Theater.java" />
         <option value="$PROJECT_DIR$/project12/src/main.java" />
         <option value="$PROJECT_DIR$/project12/src/Seat.java" />
+        <option value="$PROJECT_DIR$/project12/src/Main.java" />
       </list>
     </option>
   </component>
@@ -154,6 +149,15 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="GreatestDifferenceFinder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pokemon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pokemon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -272,8 +276,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="530" y="0" width="757" height="687" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16786227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24677187" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -282,7 +287,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7506073" weight="0.23201439" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7506073" visible="true" weight="0.1768953" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -290,7 +295,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.24939272" side_tool="true" weight="0.21136767" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4979757" visible="true" weight="0.25270757" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4979757" weight="0.25270757" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -689,7 +694,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project12/src/Seat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="380">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
             <element signature="e#74#75#0" expanded="true" />
@@ -706,10 +711,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project12/src/main.java">
+    <entry file="file://$PROJECT_DIR$/project12/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        <state relative-caret-position="247">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -763,7 +768,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ShapePrinter</last-edited>
+          <last-edited>project12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
